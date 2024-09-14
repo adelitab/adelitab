@@ -5,7 +5,6 @@ My name is Adelita =D
 **adelitab/adelitab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- :information_desk_person: She / Her
 - <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30" /> I'm currently learning JavaScript
 - I enjoy working on:
   - :house_with_garden: Smart Home Projects
