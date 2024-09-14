@@ -5,11 +5,10 @@ My name is Adelita =D
 **adelitab/adelitab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30" /> I'm currently learning JavaScript
-- I enjoy working on:
+- <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="30" height="30" /> I'm currently learning Dynatrace
+- <img src="https://cultofthepartyparrot.com/parrots/hd/headsetparrot.gif" width="30" height="30" /> I enjoy working on:
   - :house_with_garden: Smart Home Projects
-  -  Raspberry Pi Projects
-- :video_game: Steam: adelitaa
+  - Raspberry Pi Projects
 
 Credits:
 - [Parrots](https://cultofthepartyparrot.com/)
@@ -18,4 +17,5 @@ Credits:
 
 😄
 
-![Snake animation](https://github.com/adelitab/adelitab/blob/output/github-contribution-grid-snake.svg)
+---
+[![](https://visitcount.itsvg.in/api?id=adelita&label=Profile%20Views&color=12&icon=0&pretty=false)](https://visitcount.itsvg.in)
